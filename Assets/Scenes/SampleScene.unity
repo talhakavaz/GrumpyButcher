@@ -542,6 +542,63 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.78297955, y: 0.6057235, z: 0.07668589}
   m_Center: {x: 0.00000005960466, y: -0.000000014901161, z: -0.004687869}
+--- !u!1001 &269734423
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.303133
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.084466
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.0871124
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
+      propertyPath: m_Name
+      value: SausageSlice
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
 --- !u!4 &287085479 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6320606461770505102, guid: 993b441ef9593b54999a1b429c796e88, type: 3}
@@ -4146,3 +4203,4 @@ SceneRoots:
   - {fileID: 444955161}
   - {fileID: 1923063444}
   - {fileID: 595517448}
+  - {fileID: 269734423}
