@@ -552,7 +552,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.303133
+      value: -1.867
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
       propertyPath: m_LocalPosition.y
@@ -560,7 +560,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.0871124
+      value: 4.484
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 52f61175eb12e074991bd00f623c15af, type: 3}
       propertyPath: m_LocalRotation.w
@@ -848,7 +848,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6700404868872323380, guid: 993b441ef9593b54999a1b429c796e88, type: 3}
       propertyPath: m_Name
-      value: Counter (9)
+      value: DeliveryCounter
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1413,15 +1413,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 658b0128092f1409d9072bc0ed8c27b6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.3922725
+      value: -2.507
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 658b0128092f1409d9072bc0ed8c27b6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0893949
+      value: 1.421
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 658b0128092f1409d9072bc0ed8c27b6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.531044
+      value: 4.629
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 658b0128092f1409d9072bc0ed8c27b6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3061,7 +3061,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6700404868872323380, guid: 993b441ef9593b54999a1b429c796e88, type: 3}
       propertyPath: m_Name
-      value: Counter (2)
+      value: OrderCounter
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
